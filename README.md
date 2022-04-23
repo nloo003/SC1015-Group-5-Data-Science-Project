@@ -22,6 +22,8 @@ This is a mini-project for SC1015, which focuses on identifying fake news, using
   - higher usage of first-person pronouns
   - lower usage of third-person pronouns
   - greater number of sentences in news 
+- Some words are more prevalent in fake news articles and thus, can be used to determine the credibility of fake news via vectorization
+- Combination of a few machine learning models via ensemble can produce a better model
 
 ## What did we learn from this project
 - Machine Learning Models
