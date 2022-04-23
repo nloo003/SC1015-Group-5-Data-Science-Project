@@ -20,7 +20,7 @@ This is a mini-project for SC1015, which focuses on identifying fake news, using
 - Fake news articles tend to have:
   - stronger sentiment 
   - higher usage of first-person pronouns
-  - lower usage
+  - lower usage of third-person pronouns
   - greater number of sentences in news 
 
 ## What did we learn from this project
