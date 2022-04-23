@@ -31,6 +31,7 @@ This is a mini-project for SC1015, which focuses on identifying fake news, using
   - Tensorflow, nltk, sklearn
 - EDA
   - Lexical score, vader score and vectorization 
+- F-Score
 
 ## References
 - https://machinelearningmastery.com/develop-bidirectional-lstm-sequence-classification-python-keras/
