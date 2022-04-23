@@ -31,12 +31,11 @@ This is a mini-project for SC1015, which focuses on identifying fake news, using
   - Tensorflow, nltk, sklearn
 
 ## References
-https://machinelearningmastery.com/develop-bidirectional-lstm-sequence-classification-python-keras/
-https://www.youtube.com/watch?v=eLjs52-gsJQ
-https://towardsdatascience.com/predicting-fake-news-using-nlp-and-machine-learning-scikit-learn-glove-keras-lstm-7bbd557c3443
-https://towardsdatascience.com/building-classification-models-with-sklearn-6a8fd107f0c1
-https://github.com/several27/FakeNewsCorpus
-https://github.com/AIRLegend/fakenews/blob/master/notebooks/GettingRealAboutFake.ipynb
-https://github.com/AIRLegend/fakenews/blob/master/notebooks/data_analysis/Data_analysis-GettingReal.ipynb
-https://towardsdatascience.com/fake-news-detection-with-machine-learning-using-python-3347d9899ad1
+- https://machinelearningmastery.com/develop-bidirectional-lstm-sequence-classification-python-keras/
+- https://towardsdatascience.com/predicting-fake-news-using-nlp-and-machine-learning-scikit-learn-glove-keras-lstm-7bbd557c3443
+- https://towardsdatascience.com/building-classification-models-with-sklearn-6a8fd107f0c1
+- https://github.com/several27/FakeNewsCorpus
+- https://github.com/AIRLegend/fakenews/blob/master/notebooks/GettingRealAboutFake.ipynb
+- https://github.com/AIRLegend/fakenews/blob/master/notebooks/data_analysis/Data_analysis-GettingReal.ipynb
+- https://towardsdatascience.com/fake-news-detection-with-machine-learning-using-python-3347d9899ad1
 
