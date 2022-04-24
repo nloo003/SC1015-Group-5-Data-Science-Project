@@ -1,4 +1,5 @@
 # SC1015-Group-5-Data-Science-Project
+# Fake News Classifier
 ## About
 This is a mini-project for SC1015, which focuses on identifying fake news, using the dataset from [Fake News Corpus](https://github.com/several27/FakeNewsCorpus).
 
