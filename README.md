@@ -20,7 +20,7 @@ https://drive.google.com/drive/folders/1_ur9kd5K8U-56ETi_ibqcttyWXi90Fum?usp=sha
 - Naive Bayes Classifier
 - Binary Classification Tree
 - Ensemble Model
-- Recurrent Neural Network
+- Recurrent Neural Network (LSTM)
 
 ## Conclusion
 - Fake news articles tend to have:
