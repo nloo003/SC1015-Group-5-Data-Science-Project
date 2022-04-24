@@ -9,6 +9,7 @@ This is a mini-project for SC1015, which focuses on identifying fake news, using
 
 ## Problem Definition
 - Are we able to predict whether a news article is fake based on its attributes?
+- Which model would be the best to predict?
 
 ## Models Used
 - Logistic Regression
