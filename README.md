@@ -20,7 +20,7 @@ https://drive.google.com/drive/folders/1_ur9kd5K8U-56ETi_ibqcttyWXi90Fum?usp=sha
 - Naive Bayes Classifier
 - Binary Classification Tree
 - Ensemble Model
-- LSTM Neural Network
+- Recurrent Neural Network
 
 ## Conclusion
 - Fake news articles tend to have:
@@ -33,7 +33,7 @@ https://drive.google.com/drive/folders/1_ur9kd5K8U-56ETi_ibqcttyWXi90Fum?usp=sha
 
 ## What did we learn from this project
 - Machine Learning Models
-  - LSTM Neural Network, Naive Bayes Classifier, Logistic Regression and Ensemble Model
+  - Recurrent Neural Network, Naive Bayes Classifier, Logistic Regression and Ensemble Model
 - Collaborating Using GitHub
 - Packages
   - Tensorflow, nltk, sklearn
