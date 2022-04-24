@@ -15,6 +15,7 @@ This is a mini-project for SC1015, which focuses on identifying fake news, using
 - Naive Bayes Classifier
 - Binary Classification Tree
 - Ensemble Model
+- LSTM Neural Network
 
 ## Conclusion
 - Fake news articles tend to have:
@@ -27,7 +28,7 @@ This is a mini-project for SC1015, which focuses on identifying fake news, using
 
 ## What did we learn from this project
 - Machine Learning Models
-  - Neural Networks, Naive Bayes Classifier, Logistic Regression and Ensemble Model
+  - LSTM Neural Network, Naive Bayes Classifier, Logistic Regression and Ensemble Model
 - Collaborating Using GitHub
 - Packages
   - Tensorflow, nltk, sklearn
