@@ -1,6 +1,6 @@
 # SC1015-Group-5-Data-Science-Project
 ## About
-This is a mini-project for SC1015, which focuses on identifying fake news, using the data from Fake News Corpus.
+This is a mini-project for SC1015, which focuses on identifying fake news, using the dataset from [Fake News Corpus](https://github.com/several27/FakeNewsCorpus).
 
 ## Contributors
 - Nicky - Data cleaning and preprocessing and Neural Network
@@ -43,4 +43,7 @@ This is a mini-project for SC1015, which focuses on identifying fake news, using
 - https://github.com/AIRLegend/fakenews/blob/master/notebooks/GettingRealAboutFake.ipynb
 - https://github.com/AIRLegend/fakenews/blob/master/notebooks/data_analysis/Data_analysis-GettingReal.ipynb
 - https://towardsdatascience.com/fake-news-detection-with-machine-learning-using-python-3347d9899ad1
+- https://medium.com/geekculture/detecting-fake-news-using-supervised-learning-8abf09b9bf1d
+- https://analyticsindiamag.com/a-hands-on-guide-to-hybrid-ensemble-learning-models-with-python-code/
+- https://github.com/krishnaik06/Fake-New-LSTM
 
