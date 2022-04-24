@@ -28,14 +28,14 @@ https://drive.google.com/drive/folders/1_ur9kd5K8U-56ETi_ibqcttyWXi90Fum?usp=sha
   - stronger sentiment 
   - higher usage of first-person pronouns
   - lower usage of third-person pronouns
-  - greater number of sentences in news 
+  - greater number of sentences
 - Some words are more prevalent in fake news articles and thus, can be used to determine the credibility of fake news via vectorization
 - Combination of a few machine learning models via ensemble can produce a better model
 
 ## What did we learn from this project
 - Machine Learning Models
   - Recurrent Neural Network, Naive Bayes Classifier, Logistic Regression and Ensemble Model
-- Collaborating Using GitHub
+- Using GitHub
 - Packages
   - Tensorflow, nltk, sklearn
 - EDA
