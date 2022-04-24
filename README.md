@@ -3,6 +3,7 @@
 This is a mini-project for SC1015, which focuses on identifying fake news, using the dataset from [Fake News Corpus](https://github.com/several27/FakeNewsCorpus).
 
 Project datasets: rawData.zip and cleanedData.csv
+
 https://drive.google.com/drive/folders/1_ur9kd5K8U-56ETi_ibqcttyWXi90Fum?usp=sharing
 
 ## Contributors
